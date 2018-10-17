@@ -10,6 +10,7 @@
 This is where you'll start. Basic tests have been added and passing. There's a failing test for the new functionality required.
 
 #### TODO:
+* Clone the repository
 * Branch off of master and name your branch `your-name-solution`
 * Get the failing test to pass.
 * Refactor the code without breaking the tests.
