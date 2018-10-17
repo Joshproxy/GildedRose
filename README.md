@@ -1,3 +1,5 @@
+# GildedRose
+
 ### What you'll need
 
 * Visual Studio (2017 preferred)
@@ -14,7 +16,7 @@ This is where you'll start. Basic tests have been added and passing. There's a f
 * Add more tests targeting edge-cases
 * Push your branch to the repository so everyone can see your solution.
 
-## GildedRose
+## Description
 
 Hi and welcome to team Gilded Rose. As you know, we are a small inn with a 
 prime location in a prominent city ran by a friendly innkeeper named 
